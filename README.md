@@ -1,6 +1,9 @@
 # SD-LinkList
 A list of Stable Diffusion resources, resource lists
 
+ - News:
+	-	[Rentry SD updates](https://rentry.co/sdupdates)
+
  - Resource hub, link lists:
 	 - [Implemented image manipulation methods (By
    @Ehplodor)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/2940)
